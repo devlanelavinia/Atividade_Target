@@ -6,7 +6,7 @@ Este repositório contém soluções para cinco desafios práticos de lógica de
 
 ### 1. Cálculo de somatório  
 Um programa que calcula o valor acumulado de uma variável \(SOMA\) com base em um loop que incrementa um contador \(K\).  
-#### Código:  
+  
 ```python
 # Questão 1: Valor da variável SOMA
 INDICE = 13
