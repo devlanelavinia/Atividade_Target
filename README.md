@@ -36,3 +36,6 @@ Um programa que inverte os caracteres de uma string sem o uso de funções pront
 1. **Clone este repositório**:  
    ```bash
    git clone https://github.com/seu-usuario/atividade_python.git
+2. Acesse a pasta do projeto
+3. Execute os arquivos individualmente
+
